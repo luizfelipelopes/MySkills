@@ -58,6 +58,20 @@ buck-out/
 # Bundle artifact
 *.jsbundle
 
+
 # Ruby / CocoaPods
 /ios/Pods/
 /vendor/bundle/
+
+#OTHERS
+.bundle/
+__tests__/
+android/
+ios/
+.buckconfig
+.flowconfig
+.ruby-version
+.watchmanconfig
+babel.config.js
+Gemfile
+metro.config.js
